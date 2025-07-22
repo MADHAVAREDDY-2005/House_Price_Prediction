@@ -75,9 +75,9 @@ The steps taken in the notebook include:
 
 **K Madhava Reddy**  
 Aspiring ML Engineer | Data Enthusiast  
-[GitHub](https://github.com/your-github-profile) • [Kaggle]([https://kaggle.com/your-kaggle-profile](https://www.kaggle.com/code/madhavareddy09/top-3-in-house-prediction/notebook))
+[GitHub](https://github.com/your-github-profile) • [Kaggle](https://www.kaggle.com/code/madhavareddy09/top-3-in-house-prediction/notebook)
 
 ---
 
-📌 *This project demonstrates strong data preprocessing, model experimentation, and results presentation skills. It is part of my portfolio for the ML Coordinator role at my college.*
+📌 *This project demonstrates strong data preprocessing, model experimentation, and results presentation skills.*
 
