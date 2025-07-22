@@ -75,7 +75,7 @@ The steps taken in the notebook include:
 
 **K Madhava Reddy**  
 Aspiring ML Engineer | Data Enthusiast  
-[GitHub](https://github.com/your-github-profile) • [Kaggle](https://www.kaggle.com/code/madhavareddy09/top-3-in-house-prediction/notebook)
+[GitHub](https://github.com/MADHAVAREDDY-2005) • [Kaggle](https://www.kaggle.com/code/madhavareddy09/top-3-in-house-prediction/notebook)
 
 ---
 
